@@ -900,6 +900,7 @@ premium services
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
 - [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 - [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
+- [Overseerr](https://overseerr.dev/) Overseerr is a request management and media discovery tool built to work with your existing Plex ecosystem.
 
 ### Plex Scripts and Tools
 - [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
